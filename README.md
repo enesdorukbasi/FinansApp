@@ -10,7 +10,6 @@ Flutter&amp;Dart ile API kullanarak hazırladığım küçük bir uygulama.
 
 <br>
 <hr>
-<br>
 
 <h5>Döviz kurlarını belirli aralıklarla çektiğim view</h5>
 
