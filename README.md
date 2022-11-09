@@ -2,10 +2,7 @@
 Flutter&Dart ile API kullanarak yaptığım bu uygulamada MVVM mimarisini kullandım. API'den dataları çekmek için Dio kütüphanesini kullandım ancak siz ufak değişiklikler yaparak http de kullanabilirsiniz.
 
 
-<div style="display:inline-flex;" class="yazi">
-  <h4 style="display:inline-flex;">API için bu linke gidebilirsiniz : </h4> 
-  <small>https://collectapi.com/tr/api/economy/altin-doviz-ve-borsa-api/symbols</small>
-</div>
+
 API için bu linke gidebilirsiniz : https://collectapi.com/tr/api/economy/altin-doviz-ve-borsa-api/symbols
 <br>
 Api Key alabilmek için bu linki kullanabilirsiniz : https://docs.collectapi.com/docs/general
