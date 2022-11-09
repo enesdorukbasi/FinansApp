@@ -6,7 +6,7 @@ Flutter&Dart ile API kullanarak yaptığım bu uygulamada MVVM mimarisini kullan
   <h4 style="display:inline-flex;">API için bu linke gidebilirsiniz : </h4> 
   <small>https://collectapi.com/tr/api/economy/altin-doviz-ve-borsa-api/symbols</small>
 </div>
-
+API için bu linke gidebilirsiniz : https://collectapi.com/tr/api/economy/altin-doviz-ve-borsa-api/symbols
 Api Key alabilmek için bu linki kullanabilirsiniz : https://docs.collectapi.com/docs/general
 
 <hr>
