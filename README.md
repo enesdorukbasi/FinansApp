@@ -3,8 +3,8 @@ Flutter&amp;Dart ile API kullanarak hazırladığım küçük bir uygulama.
 
 
 
-<div style="display:flex" class="yazi">
-  <h4>API için bu linke gidebilirsiniz : </h4> 
+<div style="display:inline-flex;" class="yazi">
+  <h4 style="display:inline-flex;">API için bu linke gidebilirsiniz : </h4> 
   <small>https://collectapi.com/tr/api/economy/altin-doviz-ve-borsa-api/symbols</small>
 </div>
 
