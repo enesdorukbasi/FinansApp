@@ -6,7 +6,7 @@ Flutter&Dart ile API kullanarak yaptığım bu uygulamada MVVM mimarisini kullan
 API için bu linke gidebilirsiniz : https://collectapi.com/tr/api/economy/altin-doviz-ve-borsa-api/symbols
 <br>
 Api Key alabilmek için bu linki kullanabilirsiniz : https://docs.collectapi.com/docs/general
-<br>
+<br><br>
 Aldığınız Api Key'i core klasöründe bulunan servislerin üst kısmında bulunan Api Key değişkenine atamanız yeterli.
 
 <hr>
