@@ -8,8 +8,8 @@ Flutter&amp;Dart ile API kullanarak hazırladığım küçük bir uygulama.
   <small>https://collectapi.com/tr/api/economy/altin-doviz-ve-borsa-api/symbols</small>
 </div>
 
-<br>
 <hr>
+<br>
 
 <h5>Döviz kurlarını belirli aralıklarla çektiğim view</h5>
 
